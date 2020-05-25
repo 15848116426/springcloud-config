@@ -1,2 +1,2 @@
-﻿config:
-  info: "mast branch,springcloud-config/config-dev.yml version=8.0"
+config:
+  info: "mast branch,springcloud-config/config-dev.yml version=10.0"
